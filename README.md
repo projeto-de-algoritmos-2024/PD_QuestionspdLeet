@@ -16,8 +16,8 @@ Problemas
 | Código | Nome | Dificuldade | Vídeo |
 | ------------------ | ---------------- | ----------- | ------------------ |
 | 123 | [Best_Time_to_Buy_and_Sell_Stock_III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | Difícil | [clique aqui](https://youtu.be/aoPvDnpb2wM) |
-| 140 | [Word Break II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | Difícil | [clique aqui](https://youtu.be/aoPvDnpb2wM) |
-| 115 | [Distinct Subsequences](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | Difícil | [clique aqui](https://youtu.be/aoPvDnpb2wM) |
+| 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/description/) | Difícil | [clique aqui](https://youtu.be/LfY6vOr1QzE) |
+| 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) | Difícil | [clique aqui](https://youtu.be/zTs0KVktCVc) |
 
 
 
