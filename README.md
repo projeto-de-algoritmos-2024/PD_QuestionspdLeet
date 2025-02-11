@@ -29,7 +29,7 @@ Word Break II
 <div align="center"><img src="/140. Word Break II/140._Word_Break_II.png" height=auto width=auto></div>
 
 Distinct Subsequences
-<div align="center"><img src="/140. Word Break II/140._Word_Break_II.png" height=auto width=auto></div>
+<div align="center"><img src="115. Distinct Subsequences/115._Distinct_Subsequences.png" height=auto width=auto></div>
 ## Instalação 
 **Linguagem**: c++<br>
 
