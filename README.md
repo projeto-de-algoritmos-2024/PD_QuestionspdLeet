@@ -16,6 +16,8 @@ Problemas
 | Código | Nome | Dificuldade | Vídeo |
 | ------------------ | ---------------- | ----------- | ------------------ |
 | 123 | [Best_Time_to_Buy_and_Sell_Stock_III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | Difícil | [clique aqui](https://youtu.be/aoPvDnpb2wM) |
+| 140 | [Word Break II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | Difícil | [clique aqui](https://youtu.be/aoPvDnpb2wM) |
+| 115 | [Distinct Subsequences](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | Difícil | [clique aqui](https://youtu.be/aoPvDnpb2wM) |
 
 
 
@@ -23,6 +25,11 @@ Problemas
 Best_Time_to_Buy_and_Sell_Stock_III
 <div align="center"><img src="/123.Best_Time_to_Buy_and_Sell_Stock_III/123.png" height=auto width=auto></div>
 
+Word Break II
+<div align="center"><img src="/140. Word Break II/140._Word_Break_II.png" height=auto width=auto></div>
+
+Distinct Subsequences
+<div align="center"><img src="/140. Word Break II/140._Word_Break_II.png" height=auto width=auto></div>
 ## Instalação 
 **Linguagem**: c++<br>
 
